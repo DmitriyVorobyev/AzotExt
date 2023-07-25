@@ -30,7 +30,6 @@
   <defaultRoles>Role.azotОсновнаяРоль</defaultRoles>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
-  <compatibilityMode>8.3.22</compatibilityMode>
   <languages uuid="be6b117f-02e5-467d-89c7-7c4bc140f002" extendedConfigurationObject="6ec41672-ca59-40aa-a4cf-3fef74cdc3c6">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
@@ -42,6 +41,7 @@
   </languages>
   <roles>Role.azotОсновнаяРоль</roles>
   <commonModules>CommonModule.ЗарплатаКадрыРасширенныйКлиентСервер</commonModules>
+  <commonModules>CommonModule.azotОбщийМодуль</commonModules>
   <documents>Document.ПриказНаДоплатуДоСреднегоЗаработка</documents>
   <calculationRegisters>CalculationRegister.Начисления</calculationRegisters>
 </mdclass:Configuration>
