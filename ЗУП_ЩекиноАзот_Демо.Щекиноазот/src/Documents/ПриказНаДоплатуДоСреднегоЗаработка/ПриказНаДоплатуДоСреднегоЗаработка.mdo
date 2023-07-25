@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="3aa4d96d-6bb0-47fe-82c7-de87bb5ada33" extendedConfigurationObject="be7f920e-93d3-4496-93d4-4f12234a75a4">
+  <producedTypes>
+    <objectType typeId="741a658d-a527-4e62-9aa9-c4383a2a1922" valueTypeId="b0c99f14-1c05-4dd8-aeb2-5f44b294eefd"/>
+    <refType typeId="9e580af4-23da-4819-9fba-6d0081078246" valueTypeId="2772ab17-2f5c-44b4-a27d-f865c355bd12"/>
+    <selectionType typeId="a31c028f-f200-47ec-bf16-98bc6cd1efc3" valueTypeId="76db0dd2-8095-4a52-960b-6307003f3885"/>
+    <listType typeId="24b9ac25-5478-47f9-a379-340c6e82a050" valueTypeId="a009f7ac-1531-4773-8ed0-327907cac103"/>
+    <managerType typeId="98d50729-f746-4b77-91eb-c8903185c267" valueTypeId="eb334097-8b01-4081-8689-775f3f328075"/>
+  </producedTypes>
+  <name>ПриказНаДоплатуДоСреднегоЗаработка</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <objectModule>Extended</objectModule>
+  </extension>
+</mdclass:Document>

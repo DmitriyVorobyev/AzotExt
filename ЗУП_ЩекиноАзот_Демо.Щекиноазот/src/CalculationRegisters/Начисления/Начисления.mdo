@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CalculationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="bfdd8857-3aab-49ed-b80f-ccd4c9fa112d" extendedConfigurationObject="ca9501a5-a0d3-422e-afd3-8c8cfbbcbb01">
+  <producedTypes>
+    <selectionType typeId="037efb88-9bfa-4c98-a46f-feeaeb5cd46a" valueTypeId="fbb1359c-b115-4d7a-8850-003956a7921a"/>
+    <listType typeId="cbc67d16-38c4-4e49-b045-3fae410919db" valueTypeId="82d0604f-3265-459a-b7e6-c2019d112239"/>
+    <managerType typeId="274c6173-b59c-4f99-8be5-3e6023089966" valueTypeId="8c424665-3b0e-48de-b9eb-eaa58f29a518"/>
+    <recordSetType typeId="53bc7fee-af80-4f59-a2ac-4a5431286c20" valueTypeId="584a47c9-8c38-4633-9758-b530284d404b"/>
+    <recordKeyType typeId="b23e1a9e-06ef-4488-bcad-67e7d7a4be4a" valueTypeId="167c8469-fc10-40a4-a891-ffefcdeb0b4c"/>
+    <recordType typeId="77e11cd2-d638-4a8f-8f06-1d00dd6cf2d5" valueTypeId="9636fe2a-3223-4ebc-a048-ff9d0594e0db"/>
+    <recalcsType typeId="dc80306d-cf30-46aa-b291-bfcff8a454a4" valueTypeId="281390e8-62ec-47f0-ad6d-3c79635c2e1a"/>
+  </producedTypes>
+  <name>Начисления</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:CalculationRegisterExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <recordSetModule>Extended</recordSetModule>
+  </extension>
+</mdclass:CalculationRegister>
